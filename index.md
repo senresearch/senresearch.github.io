@@ -1,4 +1,4 @@
-# Sen Research Group Resources
+# Resources
 
 ## Software
 - [MatrixLM.jl](https://github.com/senresearch/matrixLM.jl) Julia
