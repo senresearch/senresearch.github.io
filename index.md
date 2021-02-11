@@ -10,7 +10,7 @@
   Liang)
 - [FlxQTL.jl](https://github.com/senresearch/FlxQTL.jl) Julia package for
   multivariate LMMs for structured traits (Hyeonju Kim)
-- [LMGPU.jl](https://github.com/senresearch/LMGPU.jl) Julia package
+- [LiteQTL.jl](https://github.com/senresearch/LiteQTL.jl) Julia package
   for eQTL scans using GPUs (Chelsea Trotter)
 - [FastLMM.jl](https://github.com/sens/FastLMM.jl) Julia package for
   univariate LMMs (Saunak Sen)
