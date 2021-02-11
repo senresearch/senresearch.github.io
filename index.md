@@ -8,7 +8,7 @@
 - [GeneticScreen.jl](https://github.com/senresearch/GeneticScreen.jl)
   Julia package for analysis of high-throughput genetic screens (Jane
   Liang)
-- [FlxQTL.jl](https://github.com/hkim89/FlxQTL.jl) Julia package for
+- [FlxQTL.jl](https://github.com/senresearch/FlxQTL.jl) Julia package for
   multivariate LMMs for structured traits (Hyeonju Kim)
 - [LMGPU.jl](https://github.com/senresearch/LMGPU.jl) Julia package
   for eQTL scans using GPUs (Chelsea Trotter)
