@@ -1,11 +1,11 @@
 # Resources
 
 ## Software
-- [MatrixLM.jl](https://github.com/senresearch/matrixLM.jl) Julia
+- [MatrixLM.jl](https://github.com/senresearch/MatrixLM.jl) Julia
   package with core functions for matrix linear models (Jane Liang)
-- [MatrixLMnet.jl](https://github.com/senresearch/matrixLMnet.jl)
+- [MatrixLMnet.jl](https://github.com/senresearch/MatrixLMnet.jl)
   Julia package for L1 penalized matrix linear models (Jane Liang)
-- [GeneticScreen.jl](https://github.com/senresearch/GeneticScreen.jl)
+- [GeneticScreens.jl](https://github.com/senresearch/GeneticScreens.jl)
   Julia package for analysis of high-throughput genetic screens (Jane
   Liang)
 - [FlxQTL.jl](https://github.com/senresearch/FlxQTL.jl) Julia package for
