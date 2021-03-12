@@ -1,6 +1,8 @@
 # Resources
 
 ## Software
+- [Helium.jl](https://github.com/senresearch/Helium.jl) A fast and
+  flexible Julia tabular serialization format (Gregory Farage)
 - [MatrixLM.jl](https://github.com/senresearch/MatrixLM.jl) Julia
   package with core functions for matrix linear models (Jane Liang)
 - [MatrixLMnet.jl](https://github.com/senresearch/MatrixLMnet.jl)
