@@ -25,7 +25,5 @@
   Trotter and Saunak Sen)
 - [Webinar Series - Quantitative Genetics Tools for Mapping Trait Variation to Mechanisms, Therapeutics, and Interventions](https://opar.io/training/osga-webinar-series-2020.html) Webinar series organized by the NIDA Center of Excellence in Omics, Systems Genetics, and the Addictome (Saunak Sen, Laura Saba, Rob Williams and others)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/leY3kPmnLaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
   
