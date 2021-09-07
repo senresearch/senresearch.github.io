@@ -1,4 +1,4 @@
-# Resources
+# Sen Research Group Resources
 
 ## Software
 - [Helium.jl](https://github.com/senresearch/Helium.jl) A fast and
@@ -16,6 +16,8 @@
   for eQTL scans using GPUs (Chelsea Trotter)
 - [FastLMM.jl](https://github.com/sens/FastLMM.jl) Julia package for
   univariate LMMs (Saunak Sen)
+- [R/lcest](https://github.com/senresearch/lcest) R package for
+  estimation for bivariate left-censored data (Emily Hanson)
 
 ## Teaching resources
 - [BIOE805 - R for Biostatistics - I](https://senresearch.github.io/bioe805)
