@@ -1,4 +1,6 @@
-# Sen Research Group Resources
+---
+title: Sen Research Group Resources
+---
 
 ## Software
 - [GeneNetworkAPI.jl](https://github.com/senresearch/GeneNetworkAPI.jl)
@@ -6,10 +8,10 @@
   Farage, Saunak Sen)
 - [MatrixLMnet.jl](https://github.com/senresearch/MatrixLMnet.jl)
   Julia package for elastic net penalized matrix linear models (Jane Liang,
-  Gregory Farage)
+  Gregory Farage, Chenhao Zhao)
 - [MatrixLM.jl](https://github.com/senresearch/MatrixLM.jl) Julia
   package with core functions for matrix linear models (Jane Liang,
-  Gregory Farage)
+  Gregory Farage, Chenhao Zhao)
 - [Helium.jl](https://github.com/senresearch/Helium.jl) A fast and
   flexible Julia tabular serialization format (Gregory Farage)
 - [GeneticScreens.jl](https://github.com/senresearch/GeneticScreens.jl)
