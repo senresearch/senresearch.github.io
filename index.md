@@ -29,6 +29,8 @@
   Introductory R course (Gregory Farage and Saunak Sen)
 - [BIOE806 - R for Biostatistics - II](https://senresearch.github.io/bioe806)
   Second R course (Gregory Farage and Saunak Sen)
+- [BIOE720 - Biostatistics for Public Health](https://senresearch.github.io/bioe720)
+  Introductory Biostatistics using Stata
 - [Julia introductory workshop](https://github.com/senresearch/julia-intro-docs)
   Materials from a workshop introducing Julia (Gregory Farage, Chelsea
   Trotter and Saunak Sen)
