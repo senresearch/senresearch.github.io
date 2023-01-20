@@ -51,9 +51,9 @@ Please be patient!
 
 ### Diagnostic tests
 
-[Diagnostic tests: prevalence, sensitivity, specificity, and
-predictive values](http://notebooks.one/disease-testing.html) 
-:  How the postive/negative predictive values of a diagnostic test based on a quantitative measurement behave.
+[Diagnostic tests: prevalence, sensitivity, specificity, and predictive values](http://notebooks.one/disease-testing.html) 
+:  How the postive/negative predictive values of a diagnostic test
+   based on a quantitative measurement behave.
 
 [Diagnostic test with a varying cutoff](http://notebooks.one/roc.html)
 :  Shows how varying the cutoff point for a quantitative diagnostic
@@ -63,22 +63,32 @@ predictive values](http://notebooks.one/disease-testing.html)
 
 [Coin flip simulator](http://notebooks.one/flips.html) Simulates what
 would happen if you flipped a coin a bunch of times, and kept a
-running tally of the proportion of heads?
+running tally of the proportion of heads.
 
 [Common distributions](http://notebooks.one/distributions.html)
+Simulator of common probability distributions as you vary the
+parameters of those distributions.
 
-[Central Limit Theorem](http://notebooks.one/clt.html)
+[Central Limit Theorem](http://notebooks.one/clt.html) Illustrates the
+Central Limit Theorem by visualizing the histogram of the sample mean
+for different distribution and sample sizes.
 
 [Probability rules and Bayes Theorem](http://notebooks.one/bayes.html)
+Graphical illustration of Bayes Theorem.
 
 ### Power and sample size
 
-[How power depends on effect size, sample size, and the desired
-false positive rate](http://notebooks.one/power .html)
+[How power depends on effect size, sample size, and the desired false
+positive rate](http://notebooks.one/power .html) Interactive
+visualization of impact of effect size and sample size on power.
 
 ### Optimization techniques
 
-[How the L1-penalty achieves sparsity](http://notebooks.one/L1-penalty.html)
+[How the L1-penalty achieves
+sparsity](http://notebooks.one/L1-penalty.html) Illustration of how
+minimizing a quadratic loss function with an L1 penalty helps acheive
+sparsity.
 
 [How the proximal operator works](http://notebooks.one/prox.html)
+Illustration of the proximal operator used in optimization.
   
