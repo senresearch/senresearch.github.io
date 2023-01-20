@@ -43,11 +43,9 @@ title: Sen Research Group Resources
   Trotter and Saunak Sen)
 - [Webinar Series - Quantitative Genetics Tools for Mapping Trait Variation to Mechanisms, Therapeutics, and Interventions](https://opar.io/training/osga-webinar-series-2020.html) Webinar series organized by the NIDA Center of Excellence in Omics, Systems Genetics, and the Addictome (Saunak Sen, Laura Saba, Rob Williams and others)
 
-## Visualizations
+## Interactive visualizations
 
-Some visualizations of statistical and computational concepts using
-Pluto.jl notebooks.  These use Binder, and are a bit slow to start.
-Please be patient!
+These use Julia's Pluto notebooks.
 
 ### Diagnostic tests
 
@@ -87,7 +85,6 @@ visualization of impact of effect size and sample size on power.
   sparsity](http://notebooks.one/L1-penalty.html) Illustration of how
   minimizing a quadratic loss function with an L1 penalty helps
   acheive sparsity.
-
 - [How the proximal operator works](http://notebooks.one/prox.html)
   Illustration of the proximal operator used in optimization.
   
