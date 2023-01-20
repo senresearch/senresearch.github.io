@@ -49,18 +49,34 @@ Some visualizations of statistical and computational concepts using
 Pluto.jl notebooks.  These use Binder, and are a bit slow to start.
 Please be patient!
 
+### Diagnostic tests
+
 [Diagnostic test with a varying cutoff](http://notebooks.one/roc.html)
 
 [Diagnostic tests: prevalence, sensitivity, specificity, and
 predictive values](http://notebooks.one/disease-te sting.html) 
-~ How the postive/negative predictive values of a diagnostic test based on a quantitative measurement behave.
-  
-[Coin flip simulator](http://notebooks.one/flips.html)
+:  How the postive/negative predictive values of a diagnostic test based on a quantitative measurement behave.
+
+### Probability and simulations
+
+[Coin flip simulator](http://notebooks.one/flips.html) Simulates what
+would happen if you flipped a coin a bunch of times, and kept a
+running tally of the proportion of heads?
+
 [Common distributions](http://notebooks.one/distributions.html)
+
 [Central Limit Theorem](http://notebooks.one/clt.html)
+
 [Probability rules and Bayes Theorem](http://notebooks.one/bayes.html)
+
+### Power and sample size
+
 [How power depends on effect size, sample size, and the desired
 false positive rate](http://notebooks.one/power .html)
-[How the L$_1$-penalty achieves sparsity](http://notebooks.one/L1-penalty.html)
+
+### Optimization techniques
+
+[How the L1-penalty achieves sparsity](http://notebooks.one/L1-penalty.html)
+
 [How the proximal operator works](http://notebooks.one/prox.html)
   
