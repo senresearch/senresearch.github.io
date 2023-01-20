@@ -51,11 +51,13 @@ Please be patient!
 
 ### Diagnostic tests
 
-[Diagnostic test with a varying cutoff](http://notebooks.one/roc.html)
-
 [Diagnostic tests: prevalence, sensitivity, specificity, and
-predictive values](http://notebooks.one/disease-te sting.html) 
+predictive values](http://notebooks.one/disease-testing.html) 
 :  How the postive/negative predictive values of a diagnostic test based on a quantitative measurement behave.
+
+[Diagnostic test with a varying cutoff](http://notebooks.one/roc.html)
+:  Shows how varying the cutoff point for a quantitative diagnostic
+  test can affect sensitivity and specificity.
 
 ### Probability and simulations
 
