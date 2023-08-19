@@ -3,13 +3,18 @@ title: Sen Research Group Resources
 ---
 
 ## Software
+- [BigRiverQTLPlots.jl](https://github.com/senresearch/BigRiverQTLPlots.jl)
+  Julia package for plots used in genetic analysis such as Manhattan
+  plots and eQTL plots (Gregory Farage)
 - [BulkLMM.jl](https://github.com/senresearch/BulkLMM.jl) Julia
   package for performing a large number of univariate linear mixed
   model genome scans; suitable for eQTL analysis and genome scans with
   high-throughput phenotypes (Zifan Yu, Gregory Farage, Chelsea
-  Trotter, Hyeonju Kim, Saunak Sen)
+  Trotter, Saunak Sen)
+- [MetabolomicsWorkbenchAPI.jl](https://github.com/senresearch/MetabolomicsWorkbenchAPI.jl)
+  Julia interface to Metabolomics Workbench (Gregory Farage)
 - [GeneNetworkAPI.jl](https://github.com/senresearch/GeneNetworkAPI.jl)
-  Julia interface to the GeneNetwork API (Chelsea Trotter, Gregory
+  Julia interface to GeneNetwork (Chelsea Trotter, Gregory
   Farage, Saunak Sen)
 - [MatrixLMnet.jl](https://github.com/senresearch/MatrixLMnet.jl)
   Julia package for elastic net penalized matrix linear models (Jane Liang,
