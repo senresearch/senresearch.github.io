@@ -55,41 +55,41 @@ These use Julia's Pluto notebooks.
 ### Diagnostic tests
 
 - [Diagnostic tests: prevalence, sensitivity, specificity, and
-   predictive values](http://notebooks.one/disease-testing.html) How
+   predictive values](http://pluto.genenetwork.org/disease-testing.html) How
    the postive/negative predictive values of a diagnostic test based
    on a quantitative measurement behave.
 - [Diagnostic test with a varying
-  cutoff](http://notebooks.one/roc.html) Shows how varying the cutoff
+  cutoff](http://pluto.genenetwork.org/roc.html) Shows how varying the cutoff
   point for a quantitative diagnostic test can affect sensitivity and
   specificity.
 
 ### Probability and simulations
 
-- [Coin flip simulator](http://notebooks.one/flips.html) Simulates
+- [Coin flip simulator](http://pluto.genenetwork.org/flips.html) Simulates
    what would happen if you flipped a coin a bunch of times, and kept
    a running tally of the proportion of heads.
-- [Common distributions](http://notebooks.one/distributions.html)
+- [Common distributions](http://pluto.genenetwork.org/distributions.html)
    Simulator of common probability distributions as you vary the
    parameters of those distributions.
-- [Central Limit Theorem](http://notebooks.one/clt.html) Illustrates
+- [Central Limit Theorem](http://pluto.genenetwork.org/clt.html) Illustrates
   the Central Limit Theorem by visualizing the histogram of the sample
   mean for different distribution and sample sizes.
 - [Probability rules and Bayes
-  Theorem](http://notebooks.one/bayes.html) Graphical illustration of
+  Theorem](http://pluto.genenetwork.org/bayes.html) Graphical illustration of
   Bayes Theorem.
 
 ### Power and sample size
 
 - [How power depends on effect size, sample size, and the desired
-false positive rate](http://notebooks.one/power .html) Interactive
+false positive rate](http://pluto.genenetwork.org/power .html) Interactive
 visualization of impact of effect size and sample size on power.
 
 ### Optimization techniques
 
 - [How the L1-penalty achieves
-  sparsity](http://notebooks.one/L1-penalty.html) Illustration of how
+  sparsity](http://pluto.genenetwork.org/L1-penalty.html) Illustration of how
   minimizing a quadratic loss function with an L1 penalty helps
   acheive sparsity.
-- [How the proximal operator works](http://notebooks.one/prox.html)
+- [How the proximal operator works](http://pluto.genenetwork.org/prox.html)
   Illustration of the proximal operator used in optimization.
   
