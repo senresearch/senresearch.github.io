@@ -3,6 +3,9 @@ title: Sen Research Group Resources
 ---
 
 ## Software
+- [R/qtlDesign](https://r-forge.r-project.org/R/?group_id=52) R
+  package for design of QTL (quantitative trait locus) experiments
+  (Saunak Sen, Karl Broman, Jaya Satagopan, Gary Churchill))
 - [BulkLMM.jl](https://github.com/senresearch/BulkLMM.jl) Julia
   package for performing a large number of univariate linear mixed
   model genome scans; suitable for eQTL analysis and genome scans with
@@ -36,12 +39,19 @@ title: Sen Research Group Resources
   Introductory R course (Gregory Farage and Saunak Sen)
 - [BIOE806 - R for Biostatistics - II](https://senresearch.github.io/bioe806)
   Second R course (Gregory Farage and Saunak Sen)
-- [BIOE720 - Biostatistics for Public Health](https://senresearch.github.io/bioe720)
-  Introductory Biostatistics using Stata
-- [Julia introductory workshop](https://github.com/senresearch/julia-intro-docs)
-  Materials from a workshop introducing Julia (Gregory Farage, Chelsea
-  Trotter and Saunak Sen)
-- [Webinar Series - Quantitative Genetics Tools for Mapping Trait Variation to Mechanisms, Therapeutics, and Interventions](https://opar.io/training/osga-webinar-series-2020.html) Webinar series organized by the NIDA Center of Excellence in Omics, Systems Genetics, and the Addictome (Saunak Sen, Laura Saba, Rob Williams and others)
+- [BIOE720 - Biostatistics for Public
+  Health](https://senresearch.github.io/bioe720) Introductory
+  Biostatistics using Stata
+- [Julia introductory
+  workshop](https://github.com/senresearch/julia-intro-docs) Materials
+  from a workshop introducing Julia (Gregory Farage, Chelsea Trotter
+  and Saunak Sen)
+- [Webinar Series - Quantitative Genetics Tools for Mapping Trait
+  Variation to Mechanisms, Therapeutics, and
+  Interventions](https://opar.io/training/osga-webinar-series-2020.html)
+  Webinar series organized by the NIDA Center of Excellence in Omics,
+  Systems Genetics, and the Addictome (Saunak Sen, Laura Saba, Rob
+  Williams and others)
 
 ## Interactive visualizations
 
